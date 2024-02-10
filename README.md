@@ -13,4 +13,9 @@
   <p align="center" width="100" >
     An ollama desktop client to make ollama easier to <br>  use for the general public and developers
   </p>
+
+
+<div align="center">
+    <img src="docs/img/home_image.png" width="400"/>
+</div>
 </div>
